@@ -152,7 +152,7 @@
 
 <script setup>
 import { ref, reactive, onMounted, nextTick, computed } from 'vue';
-import LogoVue from '../assets/Vue.svg';
+import LogoVue from '../assets/vue.svg';
 import LogoJS from '../assets/JavaScript.svg';
 
 const loading = ref(false);
